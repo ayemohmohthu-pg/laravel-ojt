@@ -35,3 +35,5 @@ php artisan migrate
 ### 6. Run laravel app on browser
 
 http://localhost:8000/
+
+test for multiple template
