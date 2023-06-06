@@ -1,3 +1,5 @@
+test for multiple template
+
 # LaravelOJT
 
 ### 1. Cloning project to PC
@@ -35,3 +37,5 @@ php artisan migrate
 ### 6. Run laravel app on browser
 
 http://localhost:8000/
+
+
